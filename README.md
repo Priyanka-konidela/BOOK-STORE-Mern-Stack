@@ -48,7 +48,7 @@
 ####  ▶&nbsp; The intuitive interface facilitates book creation, editing, and deletion, ensuring a seamless user experience.
 
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hope this project sparks creativity and innovation..!
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hope this project sparks creativity and innovation..!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Thank You Animation](https://github.com/Priyanka-konidela/BOOK-STORE-Mern-Stack/assets/83497754/465e14a2-ed40-44f5-a64c-fe7a302bf9d3)
 
 
